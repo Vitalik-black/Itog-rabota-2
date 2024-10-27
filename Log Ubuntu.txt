@@ -1,0 +1,18 @@
+	1  cat > Pets.txt
+    2  cat > Pack_animals.txt
+    3  cat Pets.txt Pack_animals.txt > Human_Friends.txt
+    4  cat Human_Friends.txt
+    5  ls
+    6  mkdir Animals
+    7  mv Human_Friends.txt Animals/
+    8  cd Animals/
+    9  ls
+   10  sudo apt update
+   11  sudo apt install wget lsb-release gnupg
+   12  wget https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-server_8.0.29-1ubuntu20.04_amd64.deb
+   13  sudo dpkg -i mysql-server_8.0.29-1ubuntu20.04_amd64.deb
+   14  hystory
+
+	Чех Виталий Фёдорович Номер группы: 7119
+
+
